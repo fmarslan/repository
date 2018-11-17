@@ -6,6 +6,12 @@
 		<artifactId>fm-parent</artifactId>
 		<version>1.0.0</version>
 	</parent>
+	<repositories>
+		<repository>
+			<id>myrepo</id>
+			<url>https://raw.github.com/fmarslan/repository/master</url>
+		</repository>
+	</repositories>
 	<artifactId>fm-framework</artifactId>
 	<name>fm-framework</name>
 	<url>http://fmarslan.com</url>
