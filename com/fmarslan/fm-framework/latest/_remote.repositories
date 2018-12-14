@@ -1,5 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Nov 17 22:15:18 EET 2018
+#Fri Dec 14 21:06:33 EET 2018
+fm-framework-latest.pom>myrepo=
+fm-framework-latest.jar>myrepo=
 fm-framework-LATEST.jar>=
 fm-framework-LATEST-sources.jar>=
 fm-framework-LATEST.pom>=
